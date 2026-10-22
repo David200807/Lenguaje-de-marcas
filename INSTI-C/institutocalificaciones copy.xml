@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ies:instituto xmlns:ies="https://xml.ejemplo.es/instituto/c" xmlns:estudiante="https://xml.ejemplo.es/instituto/c/alumnado" variante="INSTI-C">
+  <estudiante:alumnado>
+    <estudiante:alumno codigo="a01" repetidor="false">
+      <estudiante:nombre>paula</estudiante:nombre>
+      <estudiante:apellidos>vidal soto</estudiante:apellidos>
+      <estudiante:grupo>c_1 daw</estudiante:grupo>
+      <boletin:calificaciones>
+        <boletin:calificacion modulo="bases de datos">
+          <boletin:evaluacion>c_2</boletin:evaluacion>
+          <boletin:nota>c_5.75</boletin:nota>
+          <boletin:comentario>nota &lt; 5 en el examen final</boletin:comentario>
+        </boletin:calificacion>
+      </boletin:calificaciones>
+    </estudiante:alumno>
+    <estudiante:alumno codigo="a02" repetidor="false">
+      <estudiante:nombre>sergio</estudiante:nombre>
+      <estudiante:apellidos>romero diaz</estudiante:apellidos>
+      <estudiante:grupo>c_1 daw</estudiante:grupo>
+      <boletin:calificaciones>
+        <boletin:calificacion modulo="programacian">
+          <boletin:evaluacion>c_2</boletin:evaluacion>
+          <boletin:nota>c_3.75</boletin:nota>
+          <boletin:comentario/>
+        </boletin:calificacion>
+        <boletin:calificacion modulo="sistemas informaticos">
+          <boletin:evaluacion>c_3</boletin:evaluacion>
+          <boletin:nota>c_8.00</boletin:nota>
+          <boletin:comentario/>
+        </boletin:calificacion>
+      </boletin:calificaciones>
+    </estudiante:alumno>
+    <estudiante:alumno codigo="a03" repetidor="false">
+      <estudiante:nombre>hugo</estudiante:nombre>
+      <estudiante:apellidos>garcia ruiz</estudiante:apellidos>
+      <estudiante:grupo>c_2 daw</estudiante:grupo>
+      <boletin:calificaciones>
+        <boletin:calificacion modulo="sistemas informaticos">
+          <boletin:evaluacion>c_3</boletin:evaluacion>
+          <boletin:nota>c_10.25</boletin:nota>
+          <boletin:comentario>Entrega todas las tareas</boletin:comentario>
+        </boletin:calificacion>
+        <boletin:calificacion modulo="programacion">
+          <boletin:evaluacion>c_2</boletin:evaluacion>
+          <boletin:nota>c_7.25</boletin:nota>
+          <boletin:comentario>muy buena actitud</boletin:comentario>
+        </boletin:calificacion>
+      </boletin:calificaciones>
+    </estudiante:alumno>
+    <estudiante:alumno codigo="A04" repetidor="false">
+      <estudiante:nombre>daniela</estudiante:nombre>
+      <estudiante:apellidos>prieto lara</estudiante:apellidos>
+      <estudiante:grupo>c_2 daw</estudiante:grupo>
+      <boletin:calificaciones>
+        <boletin:calificacion modulo="bases de datos">
+          <boletin:evaluacion>c_1</boletin:evaluacion>
+          <boletin:nota>c_5.50</boletin:nota>
+          <boletin:comentario/>
+        </boletin:calificacion>
+        <boletin:calificacion modulo="programacion">
+          <boletin:evaluacion>c_3</boletin:evaluacion>
+          <boletin:nota>c_9.50</boletin:nota>
+          <boletin:comentario>muy buena actitud</boletin:comentario>
+        </boletin:calificacion>
+        <boletin:calificacion modulo="sistemas informaticos">
+          <boletin:evaluacion>c_3</boletin:evaluacion>
+          <boletin:nota>c_3.75</boletin:nota>
+          <boletin:comentario/>
+        </boletin:calificacion>
+      </boletin:calificaciones>
+    </estudiante:alumno>
+    <estudiante:alumno codigo="a05" repetidor="false">
+      <estudiante:nombre>paula</estudiante:nombre>
+      <estudiante:apellidos>vidal soto</estudiante:apellidos>
+      <estudiante:grupo>c_2 daw</estudiante:grupo>
+      <boletin:calificaciones>
+        <boletin:calificacion modulo="lmsgi">
+          <boletin:evaluacion>c_2</boletin:evaluacion>
+          <boletin:nota>c_5.75</boletin:nota>
+          <boletin:comentario/>
+        </boletin:calificacion>
+        <boletin:calificacion modulo="bases de datos">
+          <boletin:evaluacion>c_2</boletin:evaluacion>
+          <boletin:nota>c_7.50</boletin:nota>
+          <boletin:comentario/>
+        </boletin:calificacion>
+        <boletin:calificacion modulo="programacion">
+          <boletin:evaluacion>c_3</boletin:evaluacion>
+          <boletin:nota>c_5.50</boletin:nota>
+          <boletin:comentario>mejora en practicas &amp; teoria</boletin:comentario>
+        </boletin:calificacion>
+      </boletin:calificaciones>
+    </estudiante:alumno>
+    <estudiante:alumno codigo="a06" repetidor="false">
+      <estudiante:nombre>javier</estudiante:nombre>
+      <estudiante:apellidos>prieto Lara</estudiante:apellidos>
+      <estudiante:grupo>c_1 daw</estudiante:grupo>
+      <boletin:calificaciones/>
+    </estudiante:alumno>
+  </estudiante:alumnado>
+</ies:instituto>

@@ -1,0 +1,124 @@
+{
+  "variante": "insti-c",
+  "alumnado": [
+    {
+      "codigo": "a01",
+      "nombre": "paula",
+      "apellidos": "vidal soto",
+      "grupo": "1 DAW",
+      "repetidor": false,
+      "calificaciones": [
+        {
+          "modulo": "bases de datos",
+          "evaluacion": 2,
+          "nota": 5.75,
+          "comentario": "nota < 5 en el examen final"
+        }
+      ]
+    },
+    {
+      "codigo": "a02",
+      "nombre": "sergio",
+      "apellidos": "romero diaz",
+      "grupo": "1 daw",
+      "repetidor": false,
+      "calificaciones": [
+        {
+          "modulo": "programacion",
+          "evaluacion": 2,
+          "nota": 3.75,
+          "comentario": null
+        },
+        {
+          "modulo": "sistemas informaticos",
+          "evaluacion": 3,
+          "nota": 8.0,
+          "comentario": null
+        }
+      ]
+    },
+    {
+      "codigo": "a03",
+      "nombre": "hugo",
+      "apellidos": "Garcia ruiz",
+      "grupo": "2 daw",
+      "repetidor": false,
+      "calificaciones": [
+        {
+          "modulo": "sistemas informaticos",
+          "evaluacion": 3,
+          "nota": 10.25,
+          "comentario": "entrega todas las tareas"
+        },
+        {
+          "modulo": "programacion",
+          "evaluacion": 2,
+          "nota": 7.25,
+          "comentario": "muy buena actitud"
+        }
+      ]
+    },
+    {
+      "codigo": "a04",
+      "nombre": "daniela",
+      "apellidos": "prieto laara",
+      "grupo": "2 daw",
+      "repetidor": false,
+      "calificaciones": [
+        {
+          "modulo": "bases de datos",
+          "evaluacion": 1,
+          "nota": 5.5,
+          "comentario": null
+        },
+        {
+          "modulo": "programacion",
+          "evaluacion": 3,
+          "nota": 9.5,
+          "comentario": "muy buena actitud"
+        },
+        {
+          "modulo": "sistemas Informaticos",
+          "evaluacion": 3,
+          "nota": 3.75,
+          "comentario": null
+        }
+      ]
+    },
+    {
+      "codigo": "a05",
+      "nombre": "paula",
+      "apellidos": "vidal soto",
+      "grupo": "2 daw",
+      "repetidor": false,
+      "calificaciones": [
+        {
+          "modulo": "lmsgi",
+          "evaluacion": 2,
+          "nota": 5.75,
+          "comentario": null
+        },
+        {
+          "modulo": "Bases de datos",
+          "evaluacion": 2,
+          "nota": 7.5,
+          "comentario": null
+        },
+        {
+          "modulo": "programacion",
+          "evaluacion": 3,
+          "nota": 5.5,
+          "comentario": "mejora en practicas & teoria"
+        }
+      ]
+    },
+    {
+      "codigo": "a06",
+      "nombre": "javier",
+      "apellidos": "prieto lara",
+      "grupo": "1 daw",
+      "repetidor": false,
+      "calificaciones": []
+    }
+  ]
+}
